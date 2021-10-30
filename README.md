@@ -1,6 +1,6 @@
 # 🚀 JBook (CLI, Local API, Local Client)
 
-Complete project of [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) course. You can find the whole repo at [Github](https://github.com/MadAitcH/jbook_complete) or [NPM]().
+Complete project of [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) course. You can find the whole repo at [Github](https://github.com/MadAitcH/jbook_complete) or [NPM](https://www.npmjs.com/package/bronote).
 You can also find the code for local client (React app) at [this Git repo](https://github.com/MadAitcH/jbook_local_client).
 
 ## Technology used
