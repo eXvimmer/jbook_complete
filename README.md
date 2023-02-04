@@ -21,7 +21,7 @@ You can also find the code for local client (React app) at [this Git repo](https
 Download the zip file or Clone this repo, using:
 
 ```bash
-git clone https://github.com/MadAitcH/jbook_complete.git
+git clone https://github.com/eXvimmer/jbook_complete.git
 ```
 
 Install the dependencies:
